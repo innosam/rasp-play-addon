@@ -1,2 +1,3 @@
 #rasp_play
-A basic add-on
+A firefox addon
+It send the current opened tab url to the raspberry-play.
